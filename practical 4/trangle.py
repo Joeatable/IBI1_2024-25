@@ -6,4 +6,4 @@
 for i in range (1,11):
     n = i*(i+1)/2               #Tn = n(n+1)/2
     n = int(n)                  #int to discard the ".0"
-    print ("n = ",i,"  Tn = ",n)
+    print ("n = ",i,"  Tn = ",n) 
