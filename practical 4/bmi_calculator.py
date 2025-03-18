@@ -17,4 +17,4 @@ if BMI < 18.5:                  # judge the condition of the body
 elif 18.5 <= BMI <= 30: 
     print ("\nYou are normal weight\n")
 else:
-    print ("\nYou are obese\n")
+    print ("\nYou are obese\n") 
