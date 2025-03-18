@@ -1,5 +1,5 @@
-Hello, my name is Joeatable.
+Hello, my name is Xu Yuqiao.
 I like drinking coffee and eating chocolate biscuits.
-I am enjoying learning IBI1 in person again 
+I am enjoying learning IBI1 in person.
 I am happy that I can push my repo from Visual Studio Code to GitHub
-Hahaha
+I like playing computer games and watching operas.

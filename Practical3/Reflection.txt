@@ -1,0 +1,4 @@
+Reflection in IBI1_2024-25.
+
+During this course, I learned how to use Git and GitHub to manage and submit my code efficiently. 
+This included understanding the basic workflow of tracking changes, committing updates, and pushing code to a remote repository.
