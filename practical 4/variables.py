@@ -9,6 +9,6 @@ if c < f :
 elif c == f:
     print("the same")
 else:
-    print("by car")
+    print("by car") 
 
 # bus is faster(:
