@@ -1,0 +1,10 @@
+Q1: i change the number beta, and the terminal saud that the probabilities do not sum to 1.
+A1: i asked AI for help, it told me that i can use np.clip to refine the infection_prob
+
+Q2: there is a straight line of the plot!
+A2: run it again...
+
+Q3: carefully use float! the number of size is int
+
+Q4: i find that the recovery and infection could not happen in one time.
+
