@@ -33,11 +33,11 @@ for t in range (101) : #use for to simulate time step
     if t in time_step:
         plots[t] = population.copy()  #import the datas in plots
 
-fig, axes = plt.subplots(1, len(time_step), figsize=(15, 4), dpi=200)
-for idx, t in enumerate(time_step):
-    axes[idx].imshow(plots[t], cmap= cm.get_cmap('viridis', 3), interpolation='nearest')
-    axes[idx].set_title(f"Time {t}")
-    axes[idx].axis('off')
+fig, axes = plt.subplots(1, len(time_step), figsize=(15, 4), dpi=200) # set the plots to let them show in one layer
+for idx, t in enumerate(time_step): # create four plots, name the titles and set some variables
+    axes[idx].imshow(plots[t], cmap= cm.get_cmap('viridis', 3), interpolation='nearest') 
+    axes[idx].set_title(f"Time {t}") #titles
+    axes[idx].axis('off') #close the axis
 
 plt.tight_layout()
 plt.savefig('/Users/joey/Desktop/IBI_2024-25/IBI1_2024-25/Practical 6/spatial_SIR(2D).png')
