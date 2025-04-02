@@ -2,7 +2,7 @@
 # Answer:
 # [to calculate how many rounds could two "dice" that 
 # create two numbers randomly are the same. ]
-# Or: create two numbers(first_n\second_n) between 1-6 randomlky until they are the same (if first_n == second_n:)
+# Or: create two numbers(first_n\second_n) between 1-6 randomly until they are the same (if first_n == second_n:)
 # and then break the loop, calculating the number of attemps(progress)
 
 # Import libraries
