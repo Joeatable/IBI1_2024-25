@@ -1,3 +1,5 @@
+#!!!!!read this first: Sorry for the fact that I could grasp the precise meaning of "Zhejiang-Neiboring Province", so I delete the data of Zhejiang Province you can delete 19 to let Zhejiang back
+
 uk_pops = [57.11, 3.13, 1.91, 5.45]   # define a list of population number for countries in the UK
 uk_cons = ["England", "Wales", "Northern Ireland", "Scotland"]   # define the country names in the UK
 prc_pops = [65.77, 41.88, 45.28, 61.27, 85.15]   # define population number for Zhejiang province and its neighboring provinces
