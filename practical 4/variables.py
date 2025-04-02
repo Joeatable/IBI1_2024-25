@@ -16,7 +16,7 @@ else:
 #Boolean variable setup 
 X = True
 Y = False
-W = X and Y
+W = X and Y # encoding 'both X and Y' as a Boolean variable
 
 # Truth table for W:
 #   X   ｜   Y   ｜ W = X+Y |
