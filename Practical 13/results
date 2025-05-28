@@ -1,0 +1,30 @@
+1. Human SOD2 protein
+ Length: 222 amino acids
+ Subcellular location: Mitochondria
+ 
+2. Online BLAST results
+ Number of hits: 9347
+ Percentage identity range: 58.1% – 100%
+ Match rate of mouse: Mouse SOD2 (P09671), Identity = 90.1%
+ Note: Several other mammalian homologs (e.g. G1RJQ3) also showed high identity scores (99.1%), indicating strong evolutionary conservation of SOD2 in placental mammals.
+
+
+3. Python alignments
+Here are the results of code:
+
+===== sp|P04179|SODM_HUMAN vs sp|P09671|SODM_MOUSE =====
+BLOSUM62 Score: 1097.0  
+Percent Identity: 90.09%
+
+===== sp|P04179|SODM_HUMAN vs random =====
+BLOSUM62 Score: -250.0  
+Percent Identity: 4.50%
+
+===== sp|P09671|SODM_MOUSE vs random =====
+BLOSUM62 Score: -242.0  
+Percent Identity: 4.50%
+
+4. Conclusion
+The human and mouse SOD2 proteins are the most similar, among three sequences, both in BLOSUM62 alignment score and percent identity.  
+This high similarity supports their close evolutionary relationship.  
+In contrast, the random sequence shows very low similarity with either species.
